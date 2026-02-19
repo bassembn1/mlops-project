@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6c196fdb0e5949fc9f595706ef156d79/artifacts
+end_time: 1771455136181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c196fdb0e5949fc9f595706ef156d79
+run_name: awesome-seal-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771455123965
+status: 4
+tags: []
+user_id: bassembn
